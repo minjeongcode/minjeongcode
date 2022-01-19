@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 <br>
 
-Hi there 👋
-I'm **backend developer**.<br>
+#### Hi there!
+I'm `backend developer`.<br>
 Have a good day. 💗
 
 <br>
