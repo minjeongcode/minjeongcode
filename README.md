@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **minjeongcode/minjeongcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
+Hi there 👋
 I'm **backend developer**.<br>
 Have a good day. 💗
 
