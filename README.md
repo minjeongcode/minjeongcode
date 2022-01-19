@@ -33,7 +33,6 @@ Have a good day. 💗
 - 
 
 <br>
-<br>
 
 ## 📌 Skills
 
@@ -46,7 +45,6 @@ Have a good day. 💗
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
-<br>
 <br>
 
 ## 🌱 Stats
