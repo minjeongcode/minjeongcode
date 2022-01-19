@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I'm **backend developer**.<br>
 Have a good day. 💗
+
 <br>
 <br>
 <br>
@@ -29,6 +30,8 @@ Have a good day. 💗
 - [왓챠피디아를 모티브로 한 웹 프로젝트](https://github.com/minjeongcode/26-1st-WETCHAPEDIA-backend)
 
 ### Side Project
+
+- 
 
 <br>
 <br>
@@ -43,6 +46,7 @@ Have a good day. 💗
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+
 <br>
 <br>
 
