@@ -21,7 +21,7 @@ Have a good day. 💗
 
 <br>
 
-## 🏃🏻‍♀️ Projects
+# 🏃🏻‍♀️ Projects
 
 ### Team Project
 
@@ -34,7 +34,7 @@ Have a good day. 💗
 
 <br>
 
-## 📌 Skills
+# 📌 Skills
 
 ### Back-end
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -47,6 +47,6 @@ Have a good day. 💗
 
 <br>
 
-## 🌱 Stats
+# 🌱 Stats
 
 [![Minjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeongcode&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/minjeongcode)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minjeongcode&theme=tokyonight&hide_border=true)](https://github.com/minjeongcode)
