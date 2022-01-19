@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 
 I'm **backend developer**.<br>
 Have a good day. 💗
 
-<br>
-<br>
 <br>
 
 ## 🏃🏻‍♀️ Projects
