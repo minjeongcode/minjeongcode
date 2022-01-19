@@ -48,4 +48,5 @@ Have a good day. 💗
 <br>
 
 ## 🌱 Stats
-[![Minjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeongcode&show_icons=true&theme=tokyonight)](https://github.com/minjeongcode)
+
+[![Minjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeongcode&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/minjeongcode)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minjeongcode&theme=tokyonight&hide_border=true)](https://github.com/minjeongcode)
