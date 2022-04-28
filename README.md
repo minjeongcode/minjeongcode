@@ -30,7 +30,7 @@ Have a good day. 💗
 
 ### Side Project
 
-- 
+- [드림코딩 포트폴리오 웹사이트 클론](https://minjeongcode.github.io/Portfolio/)
 
 <br>
 
